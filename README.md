@@ -1,2 +1,14 @@
 # pandasportsscore-hub
-HTML page archive and documentation
+
+HTML 页面发布记录
+
+本仓库记录页面发布结果，页面文件会按任务追加保存。
+
+## 文件说明
+
+- 页面文件直接提交到仓库
+- 仓库说明用于辅助维护
+
+## 文件维护
+
+请以仓库当前文件和提交记录判断最新状态。
